@@ -44,26 +44,6 @@ Daniel möchte sich während er dabei ist sein Studium abzuschließen etwas Geld
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 == Aufgabe 2: Abgabesystem
 
 _Lösung für Aufgabe 2_
@@ -74,7 +54,25 @@ _Lösung für Aufgabe 3_
 
 == Aufgabe 4: Funktionsumfang
 
-_Lösung für Aufgabe 4_
+Ein Teil des neuen Abgabesystems könnte eine Funktion, wie in Aufgabenteil 1 bereits angedeutet, die es Korrekteren ermöglicht die  Abgabe zu kommentieren.
+Der Student sollte außerdem die Möglichkeit haben nach seiner Korrektur über dieses System mit dem Korrektor zu kommunizieren falls Rückfragen vorhanden sind.
+Dieses System würde den Schriftverkehr über die Universitäts-E-Mail überflüssig machen, was von Vorteil sein kann, da es schonmal vorkommt, dass das Postfach der
+Uniadresse einige Tage nicht auf neue Nachrichten geprüft wird. In dem Zusammenhang wäre eine optionale Benachrichtigung über ein neues Kommentar zu einer Korrektur gut vorstellbar.
+Sollte es bei einer Korrektur zu einem Streitfall kommen wäre es praktisch, wenn Professoren bzw. die Zuständigen für die Veranstaltung Zugriff auf das Geschriebene haben.
+
+Eine weitere praktische Funktion, die das neue Abgabesystem haben könnte, wäre ein System, dass dem Verantwortlichen der Veranstaltung ermöglicht einzustellen ob und
+wenn wie lange es eine Nachbearbeitungszeit gibt. Diese würde dann automatisch ablaufen sobald eine Korrektur eingereicht wurde. In diesen Kontext wäre auch eine Funktion,
+die Joker wie in dieser Veranstaltung berücksichtig und dem Studenten die Möglichkeit gibt über das System den Joker direkt einzulösen. Länge und Anzahl
+der Joker müssten natürlich im Vorfeld einstellbar sein. Dies würde ebenfalls den E-Mail-Verkehr reduzieren und vermutlich auch den Umgang mit solchen Regelungen erleichtern und
+übersichtlicher machen. Es wäre auch gut, wenn der Admin der Veranstaltung die Möglichkeit hat die Abgabefrist für Studenten zu erhöhen, falls dieses Mal von Nöten sein sollte.
+
+
+
+
+
+
+
+
 
 == Kommentare
 
