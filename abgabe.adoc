@@ -18,10 +18,29 @@ An der aktuellen Situation der Abgabesysteme ärgert ihn nicht nur die langsame 
 Er wünscht sich außerdem eine Funktion seine Kurse für sich selber grafisch anzuordnen oder farblich zu gestalten, da es ihm bereits passiert ist, dass er nach einer langen Nacht ohne viel Schlaf ein Projekt bei der Abgabe für "Programmierpraktikum" anstatt "DBS-Programmierpraktikum" abgegeben hat.
 
 |
-Dennis möchte die letzten Scheine, die er noch für seinen Bachelor benötigt möglichst reibungslos abschließen. Dazu zählt unter anderem das "Programmierpraktikum" . 
+Dennis möchte die letzten Scheine, die er noch für seinen Bachelor benötigt möglichst reibungslos abschließen. Dazu zählt unter anderem das "Programmierpraktikum".
 |===
 
+|===
+|Name | Hintergrund | Ziel
 
+a| Daniel
+
+|
+
+Daniel studiert Informatik, er hat das  "Programmierpraktikum" bereits vor langem abgeschlossen, nun arbeitet er als Korrektor für das "Programmierpraktikum" um sich etwas
+Geld neben seinem Studium dazu zu verdienen.
+
+Daniel programmiert bereits seit Jahren und ist auch in seiner Freizeit in der Modding Community einiger Computerspiele unterwegs. Er zieht es vor unter Linux zu arbeiten,
+da er aber auch gerne Computerspiele spielt hat er auf seinem Rechner zuhause ebenfalls Windows installiert.
+
+Ihm ist wichtig, dass die Abgaben der Studenten unter allen Korrektoren gleichmäßig verteilt werden, wobei es ihn nicht sauer machen würde, wenn er weniger zu tun hat.
+Am liebsten hätte er ein Tool, das direkt nach Abgabefrist die Projekte and die Korrektoren verteilt. Daniel wünscht sich außerdem, dass das Abgabesystem eine Funktion hätte,
+mit der er bei Nachfragen zur Korrektur mit dem Studenten kommunizieren kann, ohne seine E-Mail zu benutzen. Am liebsten hätte er diese Funktion aber um immer direkt zu wissen
+auf welche Abgabe sich der Schriftverkehr bezieht.
+|
+Daniel möchte sich während er dabei ist sein Studium abzuschließen etwas Geld dazu verdienen mit etwas das ihm Spaß macht. Außerdem freut er sich, wenn er anderen Studenten weiterhelfen kann.
+|===
 
 
 
