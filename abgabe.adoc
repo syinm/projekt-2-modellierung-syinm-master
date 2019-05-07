@@ -2,7 +2,48 @@
 
 == Aufgabe 1: Personas
 
-_Lösung für Aufgabe 1_
+|===
+|Name | Hintergrund | Ziel
+
+a| Dennis
+
+|
+
+Dennis studiert im achten Semester Informationswissenschaft and der HHU. Er bearbeitet dieses Semester sowohl das "Programmierpraktikum" als auch das "DBS-Programmierpraktikum ".
+
+Das erste Mal programmiert hat er in der Veranstaltung "Programmierung" im ersten Semester.
+Er ist anderen Betriebssystemen gegenüber nicht abgeneigt, hat dennoch auf all seinen Geräten Win10 installiert.
+
+An der aktuellen Situation der Abgabesysteme ärgert ihn nicht nur die langsame Geschwindigkeit, sondern vor allem, dass es keine Einheitliche Lösung, die Universitätsübergreifend genutzt wird gibt.
+Er wünscht sich außerdem eine Funktion seine Kurse für sich selber grafisch anzuordnen oder farblich zu gestalten, da es ihm bereits passiert ist, dass er nach einer langen Nacht ohne viel Schlaf ein Projekt bei der Abgabe für "Programmierpraktikum" anstatt "DBS-Programmierpraktikum" abgegeben hat.
+
+|
+Dennis möchte die letzten Scheine, die er noch für seinen Bachelor benötigt möglichst reibungslos abschließen. Dazu zählt unter anderem das "Programmierpraktikum" . 
+|===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 == Aufgabe 2: Abgabesystem
 
