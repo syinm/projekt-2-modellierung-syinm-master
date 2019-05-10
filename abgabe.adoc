@@ -46,11 +46,32 @@ Daniel möchte sich während er dabei ist sein Studium abzuschließen etwas Geld
 
 == Aufgabe 2: Abgabesystem
 
-_Lösung für Aufgabe 2_
+image::Modell.png[]
+Komponenten des Workflows für das Abgabesystem sind unter die drei Typen von Nutzern, dazu zählen die Organisatoren, Korrektoren und Studenten. Im Sinne des Information Hidings könnten Informationen,
+wie z.B. der Name des Nutzers oder die Matrikelnummer des Studenten, ausschließlich in diesem Teil des Programms angelegt werden.
+
+Eine Modul ermöglicht es allen Nutzern die Aufgaben herunterzuladen. Dabei macht es keinen Unterschied ob der Nutzer Student oder Organisator ist, alle können auf dieses Modul zugreifen.
+
+Der Student benötigt außerdem Zugriff auf ein Modul, dass es ihm erlaub eine Abgabe zu tätigen. Dabei wird die Abgabe in die Datenbank geladen und durch eine Art Kennung dem Studenten zugewiesen.
+
+Die Abgaben werden von einem Modul gesammelt. Wenn die Abgabefrist vorbei ist kann vom Organisator die Verteilung an die Korrektoren gestartet werden. Eine manuelle Verteilung ist ebenfalls von Nöten
+falls eine verspätete Abgabe eingereicht wird.
+
+Organisatoren benötigen ebenfalls Zugriff auf die Abgabe eines Studenten für den Fall, dass sie verspätete Abgaben hochladen müssen.
+
+Der Korrektor benötigt ein Modul, dass es ihm erlaubt die ihm vom Verteiler zugewiesenen Abgaben herunterzuladen. Das Modul könnte so implementiert werden, dass es Organisatoren
+Zugriff auf alle Abgaben gibt. Studenten können jedoch nur ihre eigene Abgabe einsehen.
+
+Die vom Korrektor erstelle Korrektur muss ebenfalls über ein Modul hochgeladen und der jeweiligen Abgabe zugeordnet werden.
+
+Außerdem wir ein Modul benötigt, um dem Organisator Einblick auf alle Korrekturen zu gewähren.
+Dieses Modul sollte außerdem dem Korrektor Einsicht auf eine Korrekturen geben, sowie dem Studenten auf die seiner Abgabe.
+
+
 
 == Aufgabe 3: Namensfindung
 
-_Lösung für Aufgabe 3_
+Ein möglicher Name für das neue System wäre Informatikportal angelehnt an das Studierendenportal,  natürlich nur solange das System nur im Rahmen der Informatik genutzt wird.
 
 == Aufgabe 4: Funktionsumfang
 
